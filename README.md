@@ -112,16 +112,27 @@ A place to share links to the best articles and tools about android development
 ## Reactive
 
 [Reactive Extensions official docs](http://reactivex.io/)
+
 [Reactive Streams specification](http://www.reactive-streams.org/)
+
 [Functional Reactive Programming on Android With RxJava by Matthias Käppler](http://mttkay.github.io/blog/2013/08/25/functional-reactive-programming-on-android-with-rxjava/)
+
 [Retrofit and RxJava slides by Jake Wharton](https://speakerdeck.com/jakewharton/2014-1)
+
 [Grokking RxJava series by Dan Ley](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+
 [Rx Android Architecture example on Github by Timo Tuominen](https://github.com/tehmou/rx-android-architecture)
+
 [Rx for .NET and RxJava for Android](http://futurice.com/blog/tech-pick-of-the-week-rx-for-net-and-rxjava-for-android)
+
 [Replace AsyncTask and AsyncTaskLoader with rx.Observable – RxJava Android Patterns](http://stablekernel.com/blog/replace-asynctask-asynctaskloader-rx-observable-rxjava-android-patterns/)
+
 [Simple background polling with RxJava](http://blog.freeside.co/2015/01/29/simple-background-polling-with-rxjava/)
+
 [Reactive Programming with Rx at QConSF 2014 by Ben Christensen](https://speakerdeck.com/benjchristensen/reactive-programming-with-rx-at-qconsf-2014)
+
 [The introduction to Reactive Programming you've been missing by André Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
 [Learning RxJava for Android by example on Github by Kaushik Gopal](https://github.com/kaushikgopal/Android-RxJava)
 
 # Wear
