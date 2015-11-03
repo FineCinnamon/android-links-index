@@ -75,6 +75,8 @@ A place to share links to the best articles and tools about android development
 
 [Material Design Everywhere by Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
 
+[The coolest Android, Material Design](goo.gl/vzLvIv)
+
 ## Camera
 
 ## Networking
