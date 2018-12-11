@@ -237,6 +237,8 @@ A place to share links to the best articles and tools about android development
 
 [Understanding android input touch events](http://codetheory.in/understanding-android-input-touch-events/)
 
+[Migrating to AndroidX (find support ocurrences in XML files)](https://gist.github.com/sergiocasero/fab62dfbeb303b49c1991b909cb3cf19)
+
 # Source Code
 
 [Google Samples](https://github.com/googlesamples)
